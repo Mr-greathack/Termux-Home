@@ -7,12 +7,6 @@
 
 T-LOAD is a bash based script which modifies and changes your terminal from boring to awesome in just oneclick without any issue and without root. This tool works on both rooted Android device and Non-rooted Android device.
 
-[![Build Status](https://img.shields.io/github/stars/noob-hackers/T-LOAD.svg)](https://github.com/noob-hackers/T-LOAD)
-[![Build Status](https://img.shields.io/github/forks/noob-hackers/T-LOAD.svg)](https://github.com/noob-hackers/T-LOAD)
-[![License: MIT](https://img.shields.io/github/license/noob-hackers/T-LOAD.svg)](https://github.com/noob-hackers/T-LOAD)
-[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#T-LOAD)
-
-![photo_2019-06-04_18-59-31](https://user-images.githubusercontent.com/49580304/58883803-c6ff2000-86fc-11e9-8897-362830f1781d.jpg)
 
 ### T-LOAD is available for
 
@@ -30,7 +24,7 @@ $ apt-get upgrade -y
 $ pkg install git -y
 ```
 ```
-$ git clone https://github.com/noob-hackers/T-LOAD
+$ git clone https://github.com/Mr-greathack/Termux-Home
 ```
 ```
 $ ls
@@ -68,15 +62,9 @@ cd T-LOAD
 ls
 ```
 bash rvt.sh
-```
-```
 
-### Subscribe our channel on youtube
-https://www.youtube.com/noobhackers
-
-### Chekout our webite 
-https://www.noob-hackers.com
      
+
 ### Warning
 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
