@@ -30,7 +30,7 @@ $ git clone https://github.com/Mr-greathack/Termux-Home
 $ ls
 ```
 ```
-$ cd T-LOAD
+$ cd Termux-Home
 ```
 ```
 $ ls
@@ -57,7 +57,7 @@ Note:- Don't delete any of the audio files from your sdcard/internal storage or 
 To revert/to get back into normal termux mode use this commands
 ```
 ```
-cd T-LOAD
+cd Termux-Home
 ```
 ls
 ```
