@@ -1,5 +1,5 @@
-#!Script  author N117R0
-#By noob hackers
+#!Script  author Mr-greathack
+#By Mr-greathack
 #Be a creative person not copy paster
 
 ###################################
@@ -27,9 +27,9 @@ echo -e "\e[1m\e[31m\
               ██║      ███████╗╚██████╔╝██║  ██║██████╔╝
               ╚═╝      ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ v 1.1"
 echo " "  
-echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mN17R0 \e[1m\e[32m░▒▓▇▆▅▄▃▂"
+echo -e  "                  \e[1m\e[32m▂▃▄▅▆▇▓▒░Coded By \e[31mrgreathack \e[1m\e[32m░▒▓▇▆▅▄▃▂"
 echo "                      -------------------------"
-echo -e  "            \e[1m\e[32m--------->[\e[31myoutube.com/noobhackers\e[1m\e[32m]<----------"  
+echo -e  "            \e[1m\e[32m--------->[\e[31myoutube.com/\e[1m\e[32m]<----------"  
 echo " "
 echo ""
 sleep 8.0
